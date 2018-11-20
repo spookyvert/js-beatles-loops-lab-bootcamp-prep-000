@@ -1,7 +1,6 @@
 // add solution here
 // add solution here
  function theBeatlesPlay(musicians, instruments){
-  var empty = []
   var content = []
   for(var i = 0; i < musicians.length; i++){
     var answer = console.log( musicians[i] +" plays " + instruments[i]);
